@@ -89,15 +89,13 @@
 
 ![프로필컴포넌트상호작용](https://github.com/user-attachments/assets/2f9b316b-6707-48ef-8949-15d2c90b5b54)
 
-![프로필컴포넌트상호작용-블로그포스팅 (1)](https://github.com/user-attachments/assets/d04e0480-6c72-4cf4-962b-3dfeae4ddd40)
-
+<img width="700" alt="블로그포스팅" src="https://github.com/user-attachments/assets/116258f5-dd08-4a07-8146-3f0e7f21287e" />
 
 > 왼쪽 상단 프로필 컴포넌트에서는 사용자와 블로그 정보를 확인할 수 있습니다.
 > 기본 상태는 사용자의 아이디와 아바타의 레벨, 성장 상태를 보여주고
 > 컴포넌트를 뒤집으면 사용자가 보유한 블로그의 목록을 확인할 수 있습니다.
 
-![캘린더컴포넌트](https://github.com/user-attachments/assets/8896c13b-1cd1-4f2e-91ad-0779db6bf297)
-
+<img height="500" alt="캘린더컴포넌트" src="https://github.com/user-attachments/assets/8896c13b-1cd1-4f2e-91ad-0779db6bf297" />
 
 > 왼쪽 하단 캘린터 컴포넌트에서는 블로그 작성 정보를 확인할 수 있습니다.
 > 블로그를 작성한 일자에 맞게 캘린터에 점으로 표시되며
@@ -113,7 +111,7 @@
 
 **퀘스트 시스템**
 
-![퀘스트-경험치](https://github.com/user-attachments/assets/6bb01840-897a-4575-ae85-fe6f2bc2866b)
+<img width="700" alt="퀘스트시스템" src="https://github.com/user-attachments/assets/6bb01840-897a-4575-ae85-fe6f2bc2866b" />
 
 > 오른쪽 하단 퀘스트 컴포넌트에는 일일 퀘스트와 주간 퀘스트를 확인할 수 있습니다.
 > 기본 상태에서는 일일 퀘스트를 확인할 수 있고 토글 버튼으로 주간 퀘스트로 전환할 수 있습니다.
